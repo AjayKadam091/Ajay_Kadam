@@ -1,0 +1,133 @@
+.top-container{
+
+     background-color:#cfffff;
+     position: relative;
+     padding-top: 100px;
+
+}
+body{
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1{
+
+  font-size: 5.265rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66bfbf;
+
+}
+
+h2{
+    margin-top: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.1rem;
+    font-weight: normal;
+    color: #66bfbf;
+
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+    }
+
+.top_cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+
+}
+.bottom_cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width:4%;
+  margin: 100px auto;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+ }
+
+ .intro{
+   width: 30%;
+   margin: auto;
+   line-height: 2;
+ }
+
+.middle-container{
+    margin: 100px 0;
+  }
+
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+    text-align: left;
+  line-height: 2;
+}
+.ajya{
+  width: 20%;
+}
+.igm{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.igm1{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.cntcmsg{
+
+    width: 40%;
+    margin: 4px auto 60px;
+
+}
+.btn {
+	background:linear-gradient(to bottom, #1ed4d4 5%, #164782 100%);
+	background-color:#1ed4d4;
+	border-radius:8px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #164782 5%, #1ed4d4 100%);
+	background-color:#164782;
+}
+.footer-link{
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #eaf6f6;
+}
+.endpara{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
